@@ -1,0 +1,10 @@
+4-Pin Tri-Color Diffused RGB Light Emitting Diodes (LED)
+
+Where to connect what?
+Longest leg (-): 5v
+Other (3) legs: Digital PWM
+
+Tech Info:
+- The legs are in following order: Green, Blue, 5v (-), Red 
+- 5mm diameter
+- 2.2-2.5V Forward Voltage, at 20mA current
