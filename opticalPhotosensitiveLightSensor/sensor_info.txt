@@ -1,0 +1,9 @@
+LM393 Optical Photosensitive Light Sensor Module
+
+Where to connect what?
+GND: GND
+VCC: 5V
+OUT: Analog Pins(A0-A5)
+
+Tech Info:
+The sensitivity of the signal detection can be adjusted using potentiometer.
